@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alejandrosaavedra/Chapter01/HelloCS/HelloCS.csproj": {}
+    "/Users/alejandrosaavedra/Csharp9/Chapter01/HelloCS/HelloCS.csproj": {}
   },
   "projects": {
-    "/Users/alejandrosaavedra/Chapter01/HelloCS/HelloCS.csproj": {
+    "/Users/alejandrosaavedra/Csharp9/Chapter01/HelloCS/HelloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alejandrosaavedra/Chapter01/HelloCS/HelloCS.csproj",
+        "projectUniqueName": "/Users/alejandrosaavedra/Csharp9/Chapter01/HelloCS/HelloCS.csproj",
         "projectName": "HelloCS",
-        "projectPath": "/Users/alejandrosaavedra/Chapter01/HelloCS/HelloCS.csproj",
+        "projectPath": "/Users/alejandrosaavedra/Csharp9/Chapter01/HelloCS/HelloCS.csproj",
         "packagesPath": "/Users/alejandrosaavedra/.nuget/packages/",
-        "outputPath": "/Users/alejandrosaavedra/Chapter01/HelloCS/obj/",
+        "outputPath": "/Users/alejandrosaavedra/Csharp9/Chapter01/HelloCS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alejandrosaavedra/.nuget/NuGet/NuGet.Config"
